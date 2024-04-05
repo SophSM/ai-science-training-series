@@ -1,0 +1,7 @@
+Homework 8: Evaluating LLMs and Potential Pitfalls
+
+I think a good use for LLMs in science is when doing literature search. Due to the large amount of research that is be hapenning every day around every topic, is often difficult to keep up-to-date with the current developments in a field. Using LLMs can be useful for rapidly processing and synthesizing the latest literature and also helping the researcher understand contradictions that appear from different sources. It can also be useful to help researchers understand and simplify knowledge coming from other disciplines in order to apply and generate new ideas in their own research without the need to be an expert on that other discipline.
+
+A way in which I would evaluate these use cases is by performing small literature searches on topics I'm familiar with and scoring the accuracy, also I could compare the output with simmilar-based softwares like Consensus and even try asking colleagues about what they think about the accuracy of the output.
+
+Another way could be to generate accuracy scores by feeding the output of the model to another LLM and prompting it to detect inaccuracies or contradictions that don't make sense.
